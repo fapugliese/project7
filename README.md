@@ -2,7 +2,7 @@
 
 ## Getting started
 
-`git clone `
+git clone https://github.com/fapugliese/project7.git
 
 ### Frontend :
 
