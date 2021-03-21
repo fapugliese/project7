@@ -22,7 +22,7 @@ npm start
 
 ### Database :
 
-Make sure you have `MySQL` installed globally
+You can start MySQL with XAMPP
 
 
 cd backend
